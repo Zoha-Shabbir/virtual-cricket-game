@@ -1,4 +1,4 @@
-# # 🏏 Mini Cricket Game – Web Edition
+#  🏏 Mini Cricket Game – Web Edition
 
 A lightweight, browser-based **2-team cricket match simulator**. Built using **HTML, CSS, and JavaScript**, this game brings back the feel of classic hand cricket in a simple, stylish UI.
 
@@ -13,7 +13,7 @@ A lightweight, browser-based **2-team cricket match simulator**. Built using **H
 
 ## 📸 Preview
 
-![Game Preview]()
+![Game Preview](preview.png)
 
 ## 🚀 How to Play
 
